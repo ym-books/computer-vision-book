@@ -1,0 +1,6 @@
+[book]
+authors = ["xinxiamu"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "计算机视觉"
